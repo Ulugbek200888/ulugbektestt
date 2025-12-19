@@ -1,0 +1,23 @@
+.aaa{
+border: 5px solid red;
+border-radius: 1000px;
+text-align: center;
+background-color: aqua;
+}
+.bbb{
+    text-align: center;
+    background-color: yellow;
+}
+.ccc{
+    text-align: center;
+    background-color: yellow;
+}
+.eee{
+    color: darkslategray;
+}
+.www{
+    color: darkslategray;
+}
+.zzz{
+    color: blue;
+}
